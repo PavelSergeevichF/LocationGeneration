@@ -1,0 +1,1008 @@
+fileFormatVersion: 2
+guid: e11a9104ea605b54bad69920c5f14858
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3678045153892038127
+    second: BlackCrusaderUIscreenshot01-1920x1080_0
+  - first:
+      213: 6413576419065498823
+    second: BlackCrusaderUIscreenshot01-1920x1080_1
+  - first:
+      213: -8923920762218210205
+    second: BlackCrusaderUIscreenshot01-1920x1080_2
+  - first:
+      213: 5609257521908065841
+    second: BlackCrusaderUIscreenshot01-1920x1080_3
+  - first:
+      213: 2264868403827767549
+    second: BlackCrusaderUIscreenshot01-1920x1080_4
+  - first:
+      213: 1779644558854515268
+    second: BlackCrusaderUIscreenshot01-1920x1080_5
+  - first:
+      213: -617590993332591427
+    second: BlackCrusaderUIscreenshot01-1920x1080_6
+  - first:
+      213: -1642199400430252628
+    second: BlackCrusaderUIscreenshot01-1920x1080_7
+  - first:
+      213: 8562073703858838188
+    second: BlackCrusaderUIscreenshot01-1920x1080_8
+  - first:
+      213: -3490824270153057295
+    second: BlackCrusaderUIscreenshot01-1920x1080_9
+  - first:
+      213: 5114866363691952953
+    second: BlackCrusaderUIscreenshot01-1920x1080_10
+  - first:
+      213: -5543579350632233606
+    second: BlackCrusaderUIscreenshot01-1920x1080_11
+  - first:
+      213: -974249064190947056
+    second: BlackCrusaderUIscreenshot01-1920x1080_12
+  - first:
+      213: -6788094139854541171
+    second: BlackCrusaderUIscreenshot01-1920x1080_13
+  - first:
+      213: -9165469643020415977
+    second: BlackCrusaderUIscreenshot01-1920x1080_14
+  - first:
+      213: -660151317269244584
+    second: BlackCrusaderUIscreenshot01-1920x1080_15
+  - first:
+      213: 7704050203375852588
+    second: BlackCrusaderUIscreenshot01-1920x1080_16
+  - first:
+      213: -6187711069213228105
+    second: BlackCrusaderUIscreenshot01-1920x1080_17
+  - first:
+      213: 1963746557972603034
+    second: BlackCrusaderUIscreenshot01-1920x1080_18
+  - first:
+      213: -3733008034378691833
+    second: BlackCrusaderUIscreenshot01-1920x1080_19
+  - first:
+      213: 6754637683030170425
+    second: BlackCrusaderUIscreenshot01-1920x1080_20
+  - first:
+      213: -6531906050054319875
+    second: BlackCrusaderUIscreenshot01-1920x1080_21
+  - first:
+      213: -6522255902879151121
+    second: BlackCrusaderUIscreenshot01-1920x1080_22
+  - first:
+      213: 1587596614253492348
+    second: BlackCrusaderUIscreenshot01-1920x1080_23
+  - first:
+      213: -288772151266946498
+    second: BlackCrusaderUIscreenshot01-1920x1080_24
+  - first:
+      213: -2690167101603815815
+    second: BlackCrusaderUIscreenshot01-1920x1080_25
+  - first:
+      213: -7482436773930564266
+    second: BlackCrusaderUIscreenshot01-1920x1080_26
+  - first:
+      213: -7557176075432479894
+    second: BlackCrusaderUIscreenshot01-1920x1080_27
+  - first:
+      213: -3953114574616535472
+    second: BlackCrusaderUIscreenshot01-1920x1080_28
+  - first:
+      213: -1648897033235584325
+    second: BlackCrusaderUIscreenshot01-1920x1080_29
+  - first:
+      213: 7911653677215443341
+    second: BlackCrusaderUIscreenshot01-1920x1080_30
+  - first:
+      213: 3930199220700871957
+    second: BlackCrusaderUIscreenshot01-1920x1080_31
+  - first:
+      213: -3097184888538732055
+    second: BlackCrusaderUIscreenshot01-1920x1080_32
+  - first:
+      213: -4052807673659354109
+    second: BlackCrusaderUIscreenshot01-1920x1080_33
+  - first:
+      213: 780745252209774858
+    second: BlackCrusaderUIscreenshot01-1920x1080_34
+  - first:
+      213: 2432290149622174270
+    second: BlackCrusaderUIscreenshot01-1920x1080_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_0
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 836
+        width: 159
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a0b6e6b65f4fcc0800000000000000
+      internalID: -3678045153892038127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 652
+        width: 167
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc8836c5c9910950800000000000000
+      internalID: 6413576419065498823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 783
+        width: 143
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c1044095dd72480800000000000000
+      internalID: -8923920762218210205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_3
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 771
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136a40f3ff518dd40800000000000000
+      internalID: 5609257521908065841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_4
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 772
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8f82140dd6e6f10800000000000000
+      internalID: 2264868403827767549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_5
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 780
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44aeafc1c4192b810800000000000000
+      internalID: 1779644558854515268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_6
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 780
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db42ee18340ed67f0800000000000000
+      internalID: -617590993332591427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_7
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 771
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadcef6985cb539e0800000000000000
+      internalID: -1642199400430252628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_8
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 721
+        width: 248
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa183b7ba892d670800000000000000
+      internalID: 8562073703858838188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_9
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 521
+        width: 45
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbf63c42d91e8fc0800000000000000
+      internalID: -3490824270153057295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_10
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 359
+        width: 43
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93be379abd7abf640800000000000000
+      internalID: 5114866363691952953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_11
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 246
+        width: 29
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a750065a3ff3113b0800000000000000
+      internalID: -5543579350632233606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_12
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 309
+        width: 271
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011542e43a5ca72f0800000000000000
+      internalID: -974249064190947056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_13
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 594
+        width: 270
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e2f0c3858dbc1a0800000000000000
+      internalID: -6788094139854541171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_14
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 26
+        width: 271
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c4420abe5bdc080800000000000000
+      internalID: -9165469643020415977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_15
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 27
+        width: 151
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8551924efdba6d6f0800000000000000
+      internalID: -660151317269244584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_16
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 181
+        width: 211
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c5ef797d84aea60800000000000000
+      internalID: 7704050203375852588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_17
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 34
+        width: 152
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b30bc20195d02aa0800000000000000
+      internalID: -6187711069213228105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 164
+        width: 206
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a906ad01711a04b10800000000000000
+      internalID: 1963746557972603034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 166
+        width: 284
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bcd2798f0b13cc0800000000000000
+      internalID: -3733008034378691833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 26
+        width: 352
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b1b736f2b4dbd50800000000000000
+      internalID: 6754637683030170425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_21
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 138
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df099441e020a55a0800000000000000
+      internalID: -6531906050054319875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_22
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 34
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb81be00da4c75a0800000000000000
+      internalID: -6522255902879151121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 247
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78313f85b6480610800000000000000
+      internalID: 1587596614253492348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_24
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 247
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3255b622431efbf0800000000000000
+      internalID: -288772151266946498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_25
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 247
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e5672364b9aaad0800000000000000
+      internalID: -2690167101603815815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_26
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 246
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6558c83d56b092890800000000000000
+      internalID: -7482436773930564266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_27
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 246
+        width: 363
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6334c626648f1790800000000000000
+      internalID: -7557176075432479894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_28
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 345
+        width: 363
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05edf872d37b329c0800000000000000
+      internalID: -3953114574616535472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_29
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 459
+        width: 323
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba2cce62e0fd19e0800000000000000
+      internalID: -1648897033235584325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_30
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 525
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89e6580a17dbcd60800000000000000
+      internalID: 7911653677215443341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_31
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 530
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d746e3e5fda8630800000000000000
+      internalID: 3930199220700871957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_32
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 529
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9e0f2e0c69405d0800000000000000
+      internalID: -3097184888538732055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_33
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 530
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3049e8cb4e881c7c0800000000000000
+      internalID: -4052807673659354109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_34
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 445
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01590a9ba3c5da00800000000000000
+      internalID: 780745252209774858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCrusaderUIscreenshot01-1920x1080_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 346
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3259e6110b31c120800000000000000
+      internalID: 2432290149622174270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
